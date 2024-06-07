@@ -68,3 +68,25 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Create a Donut Chart with Female Attrited Emp and Female Active Emp field to display the distribution. Add Female Attrition Rate Card to the visual center for reference.
 - Add Male - Female icon to denote gender-specific pie charts.
 - Enable Data Labels and apply Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 5: Employee Education Level vs Attrition Trend Visual
+
+- Create a Line and Stacked Column Chart with EducationLevel field on X Axis, Active Emp and Attrited Emp measures on the Y Axis and Attrition Rate measure on Line Y Axis.
+- Enable Data Labels and apply Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 6: Employee Education Field vs Attrition Trend Visual
+
+- Duplicate the Employee Education Level vs Attrition Trend Visual and replace by Education Field on X Axis.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 7: Employee Marital Status vs Attrition Trend Visual
+
+- Create a Clustered Bar Chart with MaritalStatus field on Y Axis and Male Attrited Emp, Male Active Emp and Male Attrition Rate measures on the X Axis.
+- Create a copy Clustered Bar Chart with MaritalStatus field on Y Axis and Female Attrited Emp, Female Active Emp and Female Attrition Rate measures on the X Axis.
+- Create a custom icon blank button toggle for switching the male - female fields visuals using male & female icon buttons using 2 bookmarks: Male Employee Marital Status Trend and Female Employee Marital Status Trend and set the Bookmarks as actions on the buttons.
+
+### Step 8: Distance from Home vs Attrition Trend Visual
+
+- Create a Area Plot with DistancefromHome field on X Axis and Active Emp & Attrited Emp measures on the Y Axis and Attrition Rate measure on Secondary Y Axis to display the distribution of the metrics.
+- Enable Data Markers and Data Labels only for the Attrition Rate line and match them with line colors.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
