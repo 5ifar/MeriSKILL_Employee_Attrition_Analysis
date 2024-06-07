@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Phase 1: ETL with Power Query](#phase-1-etl-with-power-query)
+- [Phase 2: Demographics View](#phase-2-demographics-view)
 
 ---
 
@@ -22,3 +23,33 @@
 - JobLevel Column: Levels were categorized as 1 → Entry, 2 → Junior, 3 → Expert, 4 → Executive and 5 → Senior Executive
 - Deleted StandardHours Column since every row has same value of 80, so not useful data for analysis.
 - StockOptionLevel Column: Levels are categorized as 0 → No Stock, 1 → Low Value, 2 → Moderate Value and 3 → High Value
+
+---
+
+## Phase 2: Demographics View
+
+Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) & Attrition Rate → Blue (#41A4FF)
+
+### Step 1: Creating Measures Table:
+
+- To collect all report measures in a single place we’ll create a measures table to store all the measures together.
+- Data View → Enter Data → Rename as measure.
+
+### Step 2: Key Measures:
+
+- `Total Emp = COUNT('Employee Attrition'[EmployeeNumber])`
+- `Attrited Emp = CALCULATE([Total Emp], 'Employee Attrition'[Attrition]="Yes")`
+- `Active Emp = [Total Emp] - [Attrited Emp]`
+- `Male Emp = CALCULATE([Total Emp], 'Employee Attrition'[Gender]="Male")`
+- `Female Emp = [Total Emp] - [Male Emp]`
+- `Male Attrited Emp = CALCULATE([Attrited Emp], 'Employee Attrition'[Gender]="Male")`
+- `Female Attrited Emp = [Attrited Emp] - [Male Attrited Emp]`
+- `Male Active Emp = CALCULATE([Active Emp], 'Employee Attrition'[Gender]="Male")`
+- `Female Active Emp = [Active Emp] - [Male Active Emp]`
+- `Attrition Rate = DIVIDE([Attrited Emp], [Total Emp], 0)`
+- `Male Attrition Rate = DIVIDE([Male Attrited Emp], [Male Emp], 0)`
+- `Female Attrition Rate = DIVIDE([Female Attrited Emp], [Female Emp], 0)`
+- `Avg Age = AVERAGE('Employee Attrition'[Age])`
+- `Median Monthly Income = MEDIAN('Employee Attrition'[MonthlyIncome])`
+- `Average Monthly Income = AVERAGE('Employee Attrition'[MonthlyIncome])`
+- `Avg Tenure = AVERAGE('Employee Attrition'[YearsAtCompany])`
