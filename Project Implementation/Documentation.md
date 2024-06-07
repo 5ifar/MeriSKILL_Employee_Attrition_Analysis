@@ -10,7 +10,7 @@
 
 ## Phase 1: ETL with Power Query
 
-### Step 1: Extraction & Transforming Data:
+### Step 1: Extraction & Transforming Data
 
 - Extract Data: Get Data → Text/CSV → HR Employee Attrition.csv → Transform Data
 - Business Travel column Categorization changed: Non-Travel → Never, Travel_Rarely → Rarely, Travel_Frequently → Frequently
@@ -30,12 +30,12 @@
 
 Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) & Attrition Rate → Blue (#41A4FF)
 
-### Step 1: Creating Measures Table:
+### Step 1: Creating Measures Table
 
 - To collect all report measures in a single place we’ll create a measures table to store all the measures together.
 - Data View → Enter Data → Rename as measure.
 
-### Step 2: Key Measures:
+### Step 2: Key Measures
 
 - `Total Emp = COUNT('Employee Attrition'[EmployeeNumber])`
 - `Attrited Emp = CALCULATE([Total Emp], 'Employee Attrition'[Attrition]="Yes")`
@@ -53,3 +53,18 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - `Median Monthly Income = MEDIAN('Employee Attrition'[MonthlyIncome])`
 - `Average Monthly Income = AVERAGE('Employee Attrition'[MonthlyIncome])`
 - `Avg Tenure = AVERAGE('Employee Attrition'[YearsAtCompany])`
+
+### Step 3: Employee Age Category vs Attrition Trend Visual
+
+- Add a Clustered Bar Chart visual with Age Category field on Y Axis and Male Active Emp, Male Attrited Emp and Male Attrition Rate measures on X Axis.
+- Duplicate the Clustered Bar Chart visual with Age Category field on Y Axis and Female Active Emp, Female Attrited Emp and Female Attrition Rate measures on X Axis.
+- This divides the Emp stats across 4 categories: Young Adult (18-25 age), Adult (26-44 age), Middle-age Adult (45-55 age), Old-age Adult (56+ age)
+- Enable Data Labels and apply Active Emp - Attrited Emp - Attrition Rate Color formatting.
+- Create a custom icon blank button toggle for switching the male - female fields visuals using male & female icon buttons using 2 bookmarks: Male Age - MS Trend and Female Age - MS Trend and set the Bookmarks as actions on the buttons.
+
+### Step 4: Employee Gender vs Attrition Trend Visual
+
+- Create a Donut Chart with Male Attrited Emp and Male Active Emp field to display the distribution. Add Male Attrition Rate Card to the visual center for reference.
+- Create a Donut Chart with Female Attrited Emp and Female Active Emp field to display the distribution. Add Female Attrition Rate Card to the visual center for reference.
+- Add Male - Female icon to denote gender-specific pie charts.
+- Enable Data Labels and apply Active Emp - Attrited Emp - Attrition Rate Color formatting.
