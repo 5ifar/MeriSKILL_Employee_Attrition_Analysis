@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Phase 1: ETL with Power Query](#phase-1-etl-with-power-query)
 - [Phase 2: Demographics View](#phase-2-demographics-view)
+- 
 
 ---
 
@@ -90,3 +91,19 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Create a Area Plot with DistancefromHome field on X Axis and Active Emp & Attrited Emp measures on the Y Axis and Attrition Rate measure on Secondary Y Axis to display the distribution of the metrics.
 - Enable Data Markers and Data Labels only for the Attrition Rate line and match them with line colors.
 - Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+---
+
+## Phase 3: Turnover View
+
+### Step 1: View Layout
+
+- Duplicate the Demographic view and delete all the visuals only retaining the Project Elements Group and KPI Custom Bar.
+
+### Step 2: Average Monthly Income in Job Role vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with Dept and JobRole field on X Axis, Average Monthly Income measure on Column Y Axis and Attrition Rate measure on Line Y Axis.
+- Add Total Emp, Active Emp and Attrited Emp measures to visual tooltips.
+- Set the Sort Axis as Average Monthly Income measure in descending order.
+- Enable Data Labels for both Average Monthly Income and Attrition Rate fields.
+- Maintain the Attrition Rate Color formatting.
