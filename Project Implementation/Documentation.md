@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Phase 1: ETL with Power Query](#phase-1-etl-with-power-query)
 - [Phase 2: Demographics View](#phase-2-demographics-view)
-- 
+- [Phase 3: Turnover View](#phase-3-turnover-view)
 
 ---
 
@@ -107,3 +107,21 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Set the Sort Axis as Average Monthly Income measure in descending order.
 - Enable Data Labels for both Average Monthly Income and Attrition Rate fields.
 - Maintain the Attrition Rate Color formatting.
+
+### Step 3: Stock Option Level vs Attrition Trend Visual
+
+- Create a Funnel visual with StockOptionLevel field as Category and Attrition Rate measure as Values. Add Total Emp, Active Emp and Attrited Emp measures to visual tooltips.
+- Maintain the Attrition Rate Color formatting.
+
+### Step 4: Job Level vs Attrition Trend Visual
+
+- Duplicate the Stock Option Level vs Attrition Trend Visual and replace by JobLevel field as the Category.
+
+### Step 5: Years at Company vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with YearsAtCompany field in X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Configure a Zoom Slider on the X Axis to enable data range isolation and examination.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+---
+
