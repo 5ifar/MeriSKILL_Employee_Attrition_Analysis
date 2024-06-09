@@ -149,3 +149,15 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Create a Line & Clustered Column Chart visual with JobSatisfaction field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
 - Set the Sort Axis as JobSatisfaction field in ascending direction.
 - Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 5: Job Involvement vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with JobInvolvement field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as JobInvolvement field in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 6: Business Travel Frequency vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with BusinessTravel field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as Attrition Rate measure in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
