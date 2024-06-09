@@ -6,6 +6,7 @@
 - [Phase 1: ETL with Power Query](#phase-1-etl-with-power-query)
 - [Phase 2: Demographics View](#phase-2-demographics-view)
 - [Phase 3: Turnover View](#phase-3-turnover-view)
+- [Phase 4: Well being View](#phase-4-well-being-view)
 
 ---
 
@@ -125,3 +126,26 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 
 ---
 
+## Phase 4: Well being View
+
+### Step 1: View Layout
+
+- Duplicate the Demographic view and delete all the visuals only retaining the Project Elements Group and KPI Custom Bar.
+
+### Step 2: Environment Satisfaction vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with EnvironmentSatisfaction field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as EnvironmentSatisfaction  field in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 3: Relationship Satisfaction vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with RelationshipSatisfaction field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as RelationshipSatisfaction field in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 4: Job Satisfaction vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with JobSatisfaction field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as JobSatisfaction field in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
