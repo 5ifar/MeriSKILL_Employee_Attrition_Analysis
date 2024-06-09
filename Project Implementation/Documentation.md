@@ -161,3 +161,17 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Create a Line & Clustered Column Chart visual with BusinessTravel field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
 - Set the Sort Axis as Attrition Rate measure in ascending direction.
 - Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 7: Work-Life Balance vs Attrition Trend Visual
+
+- Create a Line & Clustered Column Chart visual with WorkLifeBalance field as X Axis, Active Emp & Attrited Emp measures in Column Y Axis and Attrition Rate measure in Line Y Axis.
+- Set the Sort Axis as WorkLifeBalance  field in ascending direction.
+- Maintain the Active Emp - Attrited Emp - Attrition Rate Color formatting.
+
+### Step 8: Percent Salary Hike vs Attrition Trend Visual
+
+- Create a Stacked Area Chart  with PercentSalaryHike field on X Axis, Attrited Emp measure on Y Axis and JobLevel field in Legend parameter.
+- Maintain the Attrited Emp - Red color based Color formatting. Vary Red darkness shades for the different Job levels.
+- Add Data Marked and Labels and configure a X Axis Zoom Slider to zoom in on PercentSalaryHike value range.
+
+---
