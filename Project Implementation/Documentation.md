@@ -8,6 +8,7 @@
 - [Phase 3: Turnover View](#phase-3-turnover-view)
 - [Phase 4: Well being View](#phase-4-well-being-view)
 - [Phase 5: Slicer Panel](#phase-5-slicer-panel)
+- [Phase 6: Insights](#phase-6-insights)
 
 ---
 
@@ -184,3 +185,32 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Create a Panel with same dimensions as the KPIs Panel and add slicers for fields: Department/Job Role/Job Level, Age Category, Gender, Marital Status, Education Field/Education level, Business Travel, Work-Life Balance & Stock Option Level.
 - Add 2 custom Buttons for Closing the Panel and Clearing all filters on the page.
 - Create 6 Bookmarks, 2 per view: Demographics Filter Panel Closed, Demographics Filter Panel Opened, Turnover Filter Panel Closed, Turnover Filter Panel Opened, Well being Filter Panel Closed, Well being Filter Panel Opened. Bind the corresponding bookmarks with the view-specific Open Filter & Close Filter Panel Buttons.
+
+---
+
+## Phase 6: Insights
+
+### Employee Demographic Patterns:
+
+- The age category of Adults (26 – 44 yrs) is home to the highest workforce, with 526 Active and 100 Attrited employees. However the age category of Young Adults (18 - 25 yrs) despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto 32.5 %. Perhaps it’s a testament to the wisdom and stability that comes with age.
+- Male employees dominate our workforce, constituting 882 out of 1470 individuals. However, Female employees display a lower Attrition rate at 14.8 %, contrasting to higher Male Attrition rate of 17 %.
+- Attrition rate seems to be higher among employees with Single Marital status of around 23 - 26 % regardless of the employee gender.
+- While Bachelor employees boast the highest Active employees they are also affected with the 2nd highest Attrition rate of 17.3 % trailing just behind High School employees (18.2 %), considering the wide range of opportunities available for them in the job market, which narrows down as employees complete their Doctorate (10.4 %).
+- HR (25.9 %), Technical Degree (24.2 %) & Marketing (22 %) field employees have Attrited highest in the company.
+- Attrition increases the longer employees have to travel to office with maximum Attrition rate of 42.9 % seen around the 24 Km mark indicating that the majority of employees prefer a close commute, reflecting an aspect of convenience and local integration.
+
+### Employee Turnover Patterns:
+
+- There seems to be a direct correlation between Average Monthly Income (AMI) and Attrition. Managers earn the highest AMI of 17.4K $ and have one of the lowest Attrition rates of 5.5 % while Sales Representative earn the lowest AMI of 2.6K $ and have the highest Attrition rate of 39.8 %. The Attrition rate goes up with decreasing AMI hinting at the interplay between financial satisfaction and employee retention.
+- Attrition in general goes down as employees scale the corporate ladder as seen with Entry level & Executive employees showing 26.3 % & 4.7 % Attrition rate.
+- As employees spend more time in the company, Attrition rate decreases broadly from 36.4 % at 0 yrs in the company to 6.7 % at 22 yrs in the company post which it displays a contrasting rising trend till 40 yrs in the company when it reaches 100 % mark.
+
+### Employee Well being Patterns:
+
+- Employee Satisfaction trends contradict the Attrition trend as expected. As Employee Satisfaction, Relationship Satisfaction & Job Satisfaction metrics increase, employee attrition decreases from around 23 % to 13.2 %.
+- Similar to Employee Satisfaction as Employee Job Involvement increases, the Attrition rate decrease from 33.7 % to just 9 %.
+- Attrition goes up from 8 % to 24.9 % as employees need to almost Never Travel to Frequently Travel for business.
+- Work-Life Balance metric provides a bell curve trend of Attrition as both Poor & Very Good WLB leads to 24.4 % attrition while Fair & Good WLB leads to 15.5 % attrition on average.
+- Increasing Salary Hike % leads to decreasing Attrition among employees across all job levels.
+
+---
