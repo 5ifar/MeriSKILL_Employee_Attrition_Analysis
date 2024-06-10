@@ -7,6 +7,7 @@
 - [Phase 2: Demographics View](#phase-2-demographics-view)
 - [Phase 3: Turnover View](#phase-3-turnover-view)
 - [Phase 4: Well being View](#phase-4-well-being-view)
+- [Phase 5: Slicer Panel](#phase-5-slicer-panel)
 
 ---
 
@@ -175,3 +176,11 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Add Data Marked and Labels and configure a X Axis Zoom Slider to zoom in on PercentSalaryHike value range.
 
 ---
+
+## Phase 5: Slicer Panel
+
+### Step 1: Filter Panel
+
+- Create a Panel with same dimensions as the KPIs Panel and add slicers for fields: Department/Job Role/Job Level, Age Category, Gender, Marital Status, Education Field/Education level, Business Travel, Work-Life Balance & Stock Option Level.
+- Add 2 custom Buttons for Closing the Panel and Clearing all filters on the page.
+- Create 6 Bookmarks, 2 per view: Demographics Filter Panel Closed, Demographics Filter Panel Opened, Turnover Filter Panel Closed, Turnover Filter Panel Opened, Well being Filter Panel Closed, Well being Filter Panel Opened. Bind the corresponding bookmarks with the view-specific Open Filter & Close Filter Panel Buttons.
