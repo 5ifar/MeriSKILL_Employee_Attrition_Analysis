@@ -9,6 +9,7 @@
 - [Phase 4: Well being View](#phase-4-well-being-view)
 - [Phase 5: Slicer Panel](#phase-5-slicer-panel)
 - [Phase 6: Insights](#phase-6-insights)
+- [Phase 7: Recommendations](#phase-7-recommendations)
 
 ---
 
@@ -212,5 +213,37 @@ Color Pallet: Active Emp → Teal (#00CBC7), Attrited Emp → Maroon (#DC0034) &
 - Attrition goes up from 8 % to 24.9 % as employees need to almost Never Travel to Frequently Travel for business.
 - Work-Life Balance metric provides a bell curve trend of Attrition as both Poor & Very Good WLB leads to 24.4 % attrition while Fair & Good WLB leads to 15.5 % attrition on average.
 - Increasing Salary Hike % leads to decreasing Attrition among employees across all job levels.
+
+---
+
+## Phase 7: Recommendations
+
+### Employee Retention and Job Satisfaction:
+
+- Conduct comprehensive surveys and engage in direct dialogues with employees to understand the underlying reasons for high attrition (Avg 23 %) due to Job/Environment/Relationship dissatisfaction.
+- Implement measures to improve Work-Life Balance, especially for long-standing employees, to reduce Attrition rates upto 14.2 %.
+- Recognizing the importance of proximity to work in their daily routines, allow Working from Home (WFH) for employess living with distance of more than 11 Km to reduce travel frequency and drop Attrition rates from 24.9 % to just 8 %.
+- Ensure Salary Hike % is at least 15 % or higher to drastically cut down the attrited employees by almost 50%.
+
+### Training and Development:
+
+- Offer training opportunities for Entry-level and Junior employees to bridge any skills gaps, particularly in emerging technologies like Python to complement existing skills in SQL, Excel, Power BI so that they can climb the ladder to be Executive/Sr. Executives dropping the attrition by upto 22 %.
+
+### Financial Incentive Programs:
+
+- Review the Salary compensation packages to ensure they are competitive and aligned with industry standards, particularly for job roles with high attrition rates like Sales Representatives (39.8 %), Sales Executives (17.5 %), Lab Techs (23.9 %) & Human Resources (32.1 %) across the Sales, HR and R&D departments.
+- Evaluate the effectiveness of Low & Moderate value Stock Options and other incentive programs to gauge their impact on employee engagement.
+
+### Gender Diversity and Inclusion:
+
+- Develop initiatives to promote gender diversity at all organizational levels and address any disparities in attrition rates between Male (17 %) and Female (14.8 %) employees.
+- Establish mentorship programs and support networks to encourage the career growth and retention of Male employees within the organization.
+
+### Data-Driven Decision Making:
+
+- Establish regular feedback mechanisms to allow employees to voice concerns, share suggestions, and provide insights into improving workplace dynamics.
+- Develop and refine data-driven models to anticipate attrition trends, enabling proactive strategies to retain valuable talent.
+
+By implementing these recommendations, the organization can foster a positive work environment, improve employee satisfaction and retention, and drive organizational growth and success.
 
 ---
