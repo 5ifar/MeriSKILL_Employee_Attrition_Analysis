@@ -37,3 +37,44 @@ Please find the resource links for the project below:
 5. Dashboarding: Filters, Custom Icon Buttons, Bookmarks, Page Navigation
 6. Report Publishing: PBI Service and Report Optimization
 7. Documentation
+
+## About the Dataset:
+The original dataset is a single file with 1470 records and 35 columns and contains employee related parameterized data that has been categorized into 3 broad types: Deomographics, Turnover & Wellbeing.
+
+### Attrition Data Dictionary:
+|Column Name|Type|Description|
+|-|-|-|
+|Age|int|The age of the employee|
+|Attrition|char|Whether the employee has left the company (Yes) or not (No)|
+|BusinessTravel|char|Frequency of business travel (e.g., Rarely, Frequently)|
+|DailyRate|int|Daily rate of pay|
+|Department|char|The department where the employee works|
+|DistanceFromHome|int|Distance of employee’s residence from the workplace|
+|Education|int|Employee’s education level|
+|EducationField|char|Field of education|
+|EmployeeNumber|int|Unique identifier for each employee i.e Primary Key|
+|EnvironmentSatisfaction|int|Employee’s satisfaction with their work environment|
+|Gender|char|Employee’s gender|
+|HourlyRate|int|Hourly rate of pay|
+|JobInvolvement|int|Level of involvement in the job|
+|JobLevel|int|Job level or position in the company|
+|JobRole|char|Employee’s role or position at work|
+|JobSatisfaction|int|Employee’s job satisfaction level|
+|MaritalStatus|char|Employee’s marital status|
+|MonthlyIncome|int|Monthly income of the employee|
+|MonthlyRate|int|Monthly rate of pay|
+|NumCompaniesWorked|int|Number of companies the employee has worked for|
+|OverTime|char|Whether the employee works overtime (Yes) or not (No)|
+|PercentSalaryHike|int|Percentage increase in salary|
+|PerformanceRating|int|Employee’s performance rating|
+|RelationshipSatisfaction|int|Employee’s satisfaction with their relationships at work|
+|StockOptionLevel|int|Employee’s stock option level|
+|TotalWorkingYears|int|Total number of years the employee has worked|
+|TrainingTimesLastYear|int|Number of times the employee was trained last year|
+|WorkLifeBalance|int|Employee’s perceived work-life balance|
+|YearsAtCompany|int|Number of years the employee has worked at the company|
+|YearsInCurrentRole|int|Number of years the employee has been in the current role|
+|YearsSinceLastPromotion|int|Number of years since the employee’s last promotion|
+|YearsWithCurrManager|int|Number of years with the current manager|
+
+These columns collectively provide valuable information about employees in the dataset, which can be used for various HR analytics and decision-making processes.
