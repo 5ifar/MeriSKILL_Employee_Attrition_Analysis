@@ -1,6 +1,6 @@
 # <img src="https://media.licdn.com/dms/image/D4D0BAQFONtccW6kb_Q/company-logo_200_200/0/1692808405632?e=2147483647&v=beta&t=5-c1hlCyZ6eWKCDV5g9-B9tiZcc9GRE2MkQVg-vCmv8" width="6%" height="6%"> MeriSKILL - HR Attrition Analysis
 
---Project Banner--
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Upgraded%20Project%20Thumbnail.png" width="100%" height="100%"> </div>
 
 This repository serves as my documentation for the MeriSKILL HR Attrition Analysis - Power BI Project.
 
@@ -21,7 +21,7 @@ By leveraging HR analytics effectively, organizations can align their human reso
 
 ## Table of Contents
 Please find the resource links for the project below:
-- [MeriSKILL HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/tree/main/MeriSKILL%20Raw%20Data)
+- [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
 - [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
 - [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
 
