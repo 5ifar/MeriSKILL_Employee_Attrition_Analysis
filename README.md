@@ -78,3 +78,13 @@ The original dataset is a single file with 1470 records and 35 columns and conta
 |YearsWithCurrManager|int|Number of years with the current manager|
 
 These columns collectively provide valuable information about employees in the dataset, which can be used for various HR analytics and decision-making processes.
+
+## Data Integrity:
+ROCCC Evaluation:
+- Reliability: LOW - The raw dataset is created and updated by MeriSKILL. It has only 1 file. There is no information how the data was collected or preprocessed. 
+- Originality: MED - First party provider (MeriSKILL)
+- Comprehensiveness: HIGH - Only 1 CSV File was provided however the availability of 1470 records and 35 columns is quite adequate for an in depth analysis on the influence of various factors towards employee attrition.
+- Current: LOW - Dataset creation date was not documented/provided by MeriSKILL. So its not very relevant and hence the analysis needs to be comprehended as a general (not year-specific) trend.
+- Citation: LOW - No official citation/reference available.
+
+---
