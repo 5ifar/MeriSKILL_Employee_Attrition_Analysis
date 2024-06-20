@@ -22,6 +22,8 @@ By leveraging HR analytics effectively, organizations can align their human reso
 ## Table of Contents
 Please find the resource links for the project below:
 - [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
+- [Analysis Insights](#analysis-insights)
+- [Data-driven Recommendations](#data-driven-recommendations)
 - [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
 - [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
 
@@ -90,6 +92,7 @@ ROCCC Evaluation:
 ---
 
 ## Analysis Insights:
+
 ### Employee Demographic Patterns:
 
 - The age category of **Adults (26 – 44 yrs)** is home to the highest workforce, with 526 Active and **100** Attrited employees. However the age category of **Young Adults (18 - 25 yrs)** despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto **32.5 %**. Perhaps it’s a testament to the wisdom and stability that comes with age.
@@ -114,3 +117,33 @@ ROCCC Evaluation:
 - Increasing **Salary Hike %** leads to decreasing Attrition among employees across all job levels.
 
 ---
+
+## Data-driven Recommendations:
+
+### Employee Retention and Job Satisfaction:
+
+- Conduct comprehensive surveys and engage in direct dialogues with employees to understand the underlying reasons for high attrition (Avg **23 %**) due to **Job/Environment/Relationship dissatisfaction**.
+- Implement measures to improve **Work-Life Balance**, especially for long-standing employees, to reduce Attrition rates upto **14.2 %**.
+- Recognizing the importance of proximity to work in their daily routines, allow **Working from Home (WFH)** for employess living with distance of more than **11 Km** to reduce travel frequency and drop Attrition rates from **24.9 %** to just **8 %**.
+- Ensure **Salary Hike %** is at least **15 %** or higher to drastically cut down the attrited employees by almost **50%**.
+
+### Training and Development:
+
+- Offer training opportunities for **Entry-level** and **Junior** employees to bridge any skills gaps, particularly in emerging technologies like Python to complement existing skills in SQL, Excel, Power BI so that they can climb the ladder to be **Executive/Sr. Executives** dropping the attrition by upto **22 %**.
+
+### Financial Incentive Programs:
+
+- Review the **Salary compensation packages** to ensure they are competitive and aligned with industry standards, particularly for job roles with high attrition rates like **Sales Representatives (39.8 %)**, **Sales Executives (17.5 %)**, **Lab Techs (23.9 %)** & **Human Resources (32.1 %)** across the **Sales, HR and R&D** departments.
+- Evaluate the effectiveness of **Low & Moderate value Stock Options** and other incentive programs to gauge their impact on employee engagement.
+
+### Gender Diversity and Inclusion:
+
+- Develop initiatives to promote gender diversity at all organizational levels and address any disparities in attrition rates between **Male (17 %)** and **Female (14.8 %)** employees.
+- Establish mentorship programs and support networks to encourage the career growth and retention of Male employees within the organization.
+
+### Data-Driven Decision Making:
+
+- Establish regular feedback mechanisms to allow employees to voice concerns, share suggestions, and provide insights into improving workplace dynamics.
+- Develop and refine data-driven models to anticipate attrition trends, enabling proactive strategies to retain valuable talent.
+
+By implementing these recommendations, the organization can foster a positive work environment, improve employee satisfaction and retention, and drive organizational growth and success.
