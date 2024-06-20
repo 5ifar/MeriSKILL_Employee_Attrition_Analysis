@@ -21,9 +21,9 @@ By leveraging HR analytics effectively, organizations can align their human reso
 
 ## Table of Contents
 Please find the resource links for the project below:
-- [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
-- [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
 - [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
+- [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
+- [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
 
 ## Tools used:
 1. Microsoft Power BI: for Data Cleaning, Data Analysis, Data Visualization & Dashboarding
@@ -86,5 +86,31 @@ ROCCC Evaluation:
 - Comprehensiveness: HIGH - Only 1 CSV File was provided however the availability of 1470 records and 35 columns is quite adequate for an in depth analysis on the influence of various factors towards employee attrition.
 - Current: LOW - Dataset creation date was not documented/provided by MeriSKILL. So its not very relevant and hence the analysis needs to be comprehended as a general (not year-specific) trend.
 - Citation: LOW - No official citation/reference available.
+
+---
+
+## Analysis Insights:
+### Employee Demographic Patterns:
+
+- The age category of **Adults (26 – 44 yrs)** is home to the highest workforce, with 526 Active and **100** Attrited employees. However the age category of **Young Adults (18 - 25 yrs)** despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto **32.5 %**. Perhaps it’s a testament to the wisdom and stability that comes with age.
+- **Male** employees dominate our workforce, constituting **882** out of **1470** individuals. However, **Female** employees display a lower Attrition rate at **14.8 %**, contrasting to higher Male Attrition rate of **17 %**.
+- Attrition rate seems to be higher among employees with **Single Marital status** of around **23 - 26 %** regardless of the employee gender.
+- While **Bachelor employees** boast the highest Active employees they are also affected with the 2nd highest Attrition rate of **17.3 %** trailing just behind **High School employees (18.2 %)**, considering the wide range of opportunities available for them in the job market, which narrows down as employees complete their **Doctorate (10.4 %)**.
+- **HR (25.9 %)**, **Technical Degree (24.2 %)** & **Marketing (22 %)** field employees have Attrited highest in the company.
+- Attrition increases the longer employees have to travel to office with maximum Attrition rate of **42.9 %** seen around the **24 Km** mark indicating that the majority of employees prefer a close commute, reflecting an aspect of convenience and local integration.
+
+### Employee Turnover Patterns:
+
+- There seems to be a direct correlation between **Average Monthly Income (AMI)** and Attrition. Managers earn the highest AMI of **17.4K $** and have one of the lowest Attrition rates of **5.5 %** while Sales Representative earn the lowest AMI of **2.6K $** and have the highest Attrition rate of **39.8 %**. The Attrition rate goes up with decreasing AMI hinting at the interplay between financial satisfaction and employee retention.
+- Attrition in general goes down as employees scale the corporate ladder as seen with **Entry** level & **Executive** employees showing **26.3 %** & **4.7 %** Attrition rate.
+- As employees spend more time in the company, Attrition rate decreases broadly from **36.4 %** at **0 yrs** in the company to **6.7 %** at **22 yrs** in the company post which it displays a contrasting rising trend till **40 yrs** in the company when it reaches **100 %** mark.
+
+### Employee Wellbeing Patterns:
+
+- Employee Satisfaction trends contradict the Attrition trend as expected. As **Employee Satisfaction, Relationship Satisfaction & Job Satisfaction** metrics increase, employee attrition decreases from around **23 %** to **13.2 %**.
+- Similar to Employee Satisfaction as **Employee Job Involvement** increases, the Attrition rate decrease from **33.7 %** to just **9 %**.
+- Attrition goes up from **8 %** to **24.9 %** as employees need to almost **Never Travel** to **Frequently Travel** for business.
+- **Work-Life Balance** metric provides a bell curve trend of Attrition as both **Poor & Very Good WLB** leads to **24.4 %** attrition while **Fair & Good WLB** leads to **15.5 %** attrition on average.
+- Increasing **Salary Hike %** leads to decreasing Attrition among employees across all job levels.
 
 ---
