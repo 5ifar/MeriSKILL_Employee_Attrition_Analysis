@@ -21,11 +21,16 @@ By leveraging HR analytics effectively, organizations can align their human reso
 
 ## Table of Contents
 Please find the resource links for the project below:
+- [Purpose](#purpose)
 - [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
+- [Tools used & Methodologies implemented](#tools-used)
+- [About the Dataset](#about-the-dataset)
+  - [Data Dictionary](#attrition-data-dictionary)
+  - [Data Integrity](#data-integrity)
+  - [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
+- [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
 - [Analysis Insights](#analysis-insights)
 - [Data-driven Recommendations](#data-driven-recommendations)
-- [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
-- [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
 
 ## Tools used:
 1. Microsoft Power BI: for Data Cleaning, Data Analysis, Data Visualization & Dashboarding
