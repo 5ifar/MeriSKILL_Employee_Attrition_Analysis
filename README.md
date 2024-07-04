@@ -19,7 +19,7 @@ HR analytics, also known as Human Resources analytics or talent analytics, is th
 
 By leveraging HR analytics effectively, organizations can align their human resources strategies with business objectives, enhance organizational performance, and create a more engaged and productive workforce. It’s about leveraging data to make informed decisions that impact both employees and the organization positively.
 
-## Table of Contents
+## Contents:
 Please find the resource links for the project below:
 - [Purpose](#purpose)
 - [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
