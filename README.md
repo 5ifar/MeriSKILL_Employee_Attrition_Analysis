@@ -100,7 +100,7 @@ ROCCC Evaluation:
 
 ### Employee Demographic Patterns:
 
-- The age category of **Adults (26 – 44 yrs)** is home to the highest workforce, with 526 Active and **100** Attrited employees. However the age category of **Young Adults (18 - 25 yrs)** despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto **32.5 %**. Perhaps it’s a testament to the wisdom and stability that comes with age.
+- The age category of **Adults (26 – 44 yrs)** is home to the highest workforce, with 876 Active and **157** Attrited employees. However the age category of **Young Adults (18 - 25 yrs)** despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto **32.5 %** in Males and upto **41.9%** in Females. Perhaps it’s a testament to the wisdom and stability that comes with age.
 - **Male** employees dominate our workforce, constituting **882** out of **1470** individuals. However, **Female** employees display a lower Attrition rate at **14.8 %**, contrasting to higher Male Attrition rate of **17 %**.
 - Attrition rate seems to be higher among employees with **Single Marital status** of around **23 - 26 %** regardless of the employee gender.
 - While **Bachelor employees** boast the highest Active employees they are also affected with the 2nd highest Attrition rate of **17.3 %** trailing just behind **High School employees (18.2 %)**, considering the wide range of opportunities available for them in the job market, which narrows down as employees complete their **Doctorate (10.4 %)**.
