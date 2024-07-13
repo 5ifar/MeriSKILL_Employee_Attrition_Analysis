@@ -101,11 +101,30 @@ ROCCC Evaluation:
 ### Employee Demographic Patterns:
 
 - The age category of **Adults (26 – 44 yrs)** is home to the highest workforce, with 876 Active and **157** Attrited employees. However the age category of **Young Adults (18 - 25 yrs)** despite having 2nd lowest Active employee count are affected with the highest Attrition rate of upto **32.5 %** in Males and upto **41.9%** in Females. Perhaps it’s a testament to the wisdom and stability that comes with age.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%201.1.JPG" width="50%" height="50%"> </div>
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%201.2.JPG" width="50%" height="50%"> </div>
+
 - **Male** employees dominate our workforce, constituting **882** out of **1470** individuals. However, **Female** employees display a lower Attrition rate at **14.8 %**, contrasting to higher Male Attrition rate of **17 %**.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%202.JPG" width="50%" height="50%"> </div>
+
 - Attrition rate seems to be higher among employees with **Single Marital status** of around **23 - 26 %** regardless of the employee gender.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%203.1.JPG" width="50%" height="50%"> </div>
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%203.2.JPG" width="50%" height="50%"> </div>
+
 - While **Bachelor employees** boast the highest Active employees they are also affected with the 2nd highest Attrition rate of **17.3 %** trailing just behind **High School employees (18.2 %)**, considering the wide range of opportunities available for them in the job market, which narrows down as employees complete their **Doctorate (10.4 %)**.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%204.JPG" width="50%" height="50%"> </div>
+
 - **HR (25.9 %)**, **Technical Degree (24.2 %)** & **Marketing (22 %)** field employees have Attrited highest in the company.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%205.JPG" width="50%" height="50%"> </div>
+
 - Attrition increases the longer employees have to travel to office with maximum Attrition rate of **42.9 %** seen around the **24 Km** mark indicating that the majority of employees prefer a close commute, reflecting an aspect of convenience and local integration.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Demographic/HR%20Attrition%20-%20Demographic%20Insights%206.JPG" width="50%" height="50%"> </div>
 
 ### Employee Turnover Patterns:
 
