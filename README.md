@@ -144,9 +144,20 @@ ROCCC Evaluation:
 
 - Employee Satisfaction trends contradict the Attrition trend as expected. As **Employee Satisfaction, Relationship Satisfaction & Job Satisfaction** metrics increase, employee attrition decreases from around **23 %** to **13.2 %**.
 - Similar to Employee Satisfaction as **Employee Job Involvement** increases, the Attrition rate decrease from **33.7 %** to just **9 %**.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Wellbeing/HR%20Attrition%20-%20Wellbeing%20Insights%201%20%26%202.JPG" width="50%" height="50%"> </div>
+
 - Attrition goes up from **8 %** to **24.9 %** as employees need to almost **Never Travel** to **Frequently Travel** for business.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Wellbeing/HR%20Attrition%20-%20Wellbeing%20Insights%203.JPG" width="50%" height="50%"> </div>
+
 - **Work-Life Balance** metric provides a bell curve trend of Attrition as both **Poor & Very Good WLB** leads to **24.4 %** attrition while **Fair & Good WLB** leads to **15.5 %** attrition on average.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Wellbeing/HR%20Attrition%20-%20Wellbeing%20Insights%204.JPG" width="50%" height="50%"> </div>
+
 - Increasing **Salary Hike %** leads to decreasing Attrition among employees across all job levels.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Wellbeing/HR%20Attrition%20-%20Wellbeing%20Insights%205.JPG" width="50%" height="50%"> </div>
 
 ---
 
