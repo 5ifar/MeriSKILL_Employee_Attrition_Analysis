@@ -129,8 +129,16 @@ ROCCC Evaluation:
 ### Employee Turnover Patterns:
 
 - There seems to be a direct correlation between **Average Monthly Income (AMI)** and Attrition. Managers earn the highest AMI of **17.4K $** and have one of the lowest Attrition rates of **5.5 %** while Sales Representative earn the lowest AMI of **2.6K $** and have the highest Attrition rate of **39.8 %**. The Attrition rate goes up with decreasing AMI hinting at the interplay between financial satisfaction and employee retention.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Turnover/HR%20Attrition%20-%20Turnover%20Insights%201.JPG" width="50%" height="50%"> </div>
+
 - Attrition in general goes down as employees scale the corporate ladder as seen with **Entry** level & **Executive** employees showing **26.3 %** & **4.7 %** Attrition rate.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Turnover/HR%20Attrition%20-%20Turnover%20Insights%202.JPG" width="50%" height="50%"> </div>
+
 - As employees spend more time in the company, Attrition rate decreases broadly from **36.4 %** at **0 yrs** in the company to **6.7 %** at **22 yrs** in the company post which it displays a contrasting rising trend till **40 yrs** in the company when it reaches **100 %** mark.
+
+<div align="center"> <img src="https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Assets/Insights%20Images/Turnover/HR%20Attrition%20-%20Turnover%20Insights%203.JPG" width="50%" height="50%"> </div>
 
 ### Employee Wellbeing Patterns:
 
