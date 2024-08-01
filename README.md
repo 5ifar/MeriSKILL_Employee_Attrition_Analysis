@@ -21,7 +21,7 @@ Please find the sectional links for the project below:
   - [Data Dictionary](#attrition-data-dictionary)
   - [Data Integrity](#data-integrity)
   - [HR Employee Attrition Raw Data](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Employee%20Attrition%20Raw%20Data/HR-Employee-Attrition.csv)
-- [Project Implementation](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md)
+- [Project Implementation](#project-implementation)
 - [Analysis Insights](#analysis-insights)
 - [Data-driven Recommendations](#data-driven-recommendations)
 
@@ -97,6 +97,17 @@ ROCCC Evaluation:
 - Comprehensiveness: HIGH - Only 1 CSV File was provided however the availability of 1470 records and 35 columns is quite adequate for an in depth analysis on the influence of various factors towards employee attrition.
 - Current: LOW - Dataset creation date was not documented/provided by MeriSKILL. So its not very relevant and hence the analysis needs to be comprehended as a general (not year-specific) trend.
 - Citation: LOW - No official citation/reference available.
+
+---
+
+## Project Implementation
+Please find the documentation links for the project phase-wise implementation below:
+
+- [Phase 1: ETL with Power Query](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md#phase-1-etl-with-power-query)
+- [Phase 2: Demographics View](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md#phase-2-demographics-view)
+- [Phase 3: Turnover View](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md#phase-3-turnover-view)
+- [Phase 4: Well being View](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md#phase-4-well-being-view)
+- [Phase 5: Slicer Panel](https://github.com/5ifar/MeriSKILL_HR_Attrition_Analysis/blob/main/Project%20Implementation/Documentation.md#phase-5-slicer-panel)
 
 ---
 
