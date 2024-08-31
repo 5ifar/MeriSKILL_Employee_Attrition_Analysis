@@ -12,7 +12,7 @@ The entire project has been implemented using Microsoft Power BI Desktop 2.128.7
 
 ## Contents:
 Please find the sectional links for the project below:
-- [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
+- [Live MeriSKILL Employee Attrition Analysis Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
 - [About the Dataset](#about-the-dataset)
@@ -22,6 +22,10 @@ Please find the sectional links for the project below:
 - [Project Implementation](#project-implementation)
 - [Analysis Insights](#analysis-insights)
 - [Data-driven Recommendations](#data-driven-recommendations)
+
+---
+
+## [MeriSKILL Employee Attrition Analysis Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2Y2NTQ2ZWQtMzJmOC00OWVlLTgwOTEtNzhiOWNlMWZiZDRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=338e9479b01753438a87)
 
 ---
 
