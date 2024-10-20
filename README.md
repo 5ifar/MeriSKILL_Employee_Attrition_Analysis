@@ -12,7 +12,7 @@ The entire project has been implemented using Microsoft Power BI Desktop 2.128.7
 
 ## Contents:
 Please find the sectional links for the project below:
-- [MeriSKILL Employee Attrition Analysis Live Dashboard Link](https://mavenanalytics.io/project/19171)
+- [MeriSKILL Employee Attrition Analysis Live Report Link](https://mavenanalytics.io/project/19171)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
 - [About the Dataset](#about-the-dataset)
@@ -25,7 +25,7 @@ Please find the sectional links for the project below:
 
 ---
 
-## [MeriSKILL Employee Attrition Analysis Live Dashboard Link](https://mavenanalytics.io/project/19171)
+## [MeriSKILL Employee Attrition Analysis Live Report Link](https://mavenanalytics.io/project/19171)
 
 ---
 
